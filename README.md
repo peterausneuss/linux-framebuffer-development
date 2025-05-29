@@ -49,6 +49,7 @@ Für eine gute Balance aus Kontrolle, Funktionalität und Entwicklungsfreundlich
 Eine spezialisierte Option, die ebenfalls gut passt, ist DirectFB, falls du die Bibliothek magst und die Entwicklung für deine Zwecke ausreichend ist.
 
 Ziele:
+
 Uridium Clone
 Intro/Demo  Programmierung
 
