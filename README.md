@@ -35,3 +35,5 @@ Intro/Demo  Programmierung
 
 mehr im wiki
 https://github.com/peterausneuss/linux-framebuffer-development/wiki
+
+![alt text](image.png)
